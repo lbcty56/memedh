@@ -1,0 +1,19 @@
+html {
+    background-color: black;
+    color: white;
+}
+img {
+    width:100%;
+}
+.poster {
+    width: 50%;
+    margin-left: 25%;
+    text-align: center;
+}
+h1 {
+    font-family: "Teko", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    text-transform: uppercase;
+}
